@@ -11,7 +11,7 @@ Project Overview:
 
 
 
-![alt text](https://github.com/sijujusi/Prediction-of-Car-Price-/blob/main/modelcomparison.png)
+![alt text](https://github.com/sijujusi/Prediction-of-Car-Price-/blob/main/modelcomparison_test.png)
 
 ![alt text](https://github.com/sijujusi/Prediction-of-Car-Price-/blob/main/Table.JPG)
 
